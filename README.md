@@ -1,7 +1,18 @@
 # 图片搜索引擎
 > 前端参考自 [Snavigation](https://github.com/imsyy/Snavigation)
 > 后端参考自 [bytedance-youthcamp-search-engine](https://github.com/optimjie/bytedance-youthcamp-search-engine)
+## 效果图
+
+1. 输入搜索内容
+
+![image-20231022200515930](assets/blog_res/README.assets/image-20231022200515930.png)
+
+2. 搜索内容展示
+
+![image-20231022200546596](assets/blog_res/README.assets/image-20231022200546596.png)
+
 ## 部署流程
+
 ### 后端部署
 
 > 账户：root 
